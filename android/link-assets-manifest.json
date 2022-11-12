@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GoogleSans-Bold.ttf",
+      "sha1": "75e7945219f97ef51d44a0055a68f3feaf2aa40e"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-BoldItalic.ttf",
+      "sha1": "bb829f1b305c2f9f237408c8532572dcc60f9e27"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-Medium.ttf",
+      "sha1": "ef622dce8d8a3f004d8673923e98cfb6c8aaf256"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-MediumItalic.ttf",
+      "sha1": "46b087e73cc7204b517f1be0268240acc73453c6"
+    },
+    {
+      "path": "assets/fonts/GoogleSans-Regular.ttf",
+      "sha1": "11b66f6b07a754298212b6b4241b25fd5713c20b"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/ProductSans-Regular.ttf",
+      "sha1": "2ad2f8c05caf518bb946cafa3f9cd5afaf1cf19a"
+    },
+    {
+      "path": "assets/fonts/Qdbettercomicsans-jEEeG.ttf",
+      "sha1": "57983d0e79421c5e0281147b12819aa0a73cc2b1"
+    },
+    {
+      "path": "assets/fonts/Qdbettercomicsansalternates-z8823.ttf",
+      "sha1": "72b979f0c67ae35df3a4350cd6c0be32dd14585f"
+    },
+    {
+      "path": "assets/fonts/Qdbettercomicsansbold-511d8.ttf",
+      "sha1": "d2f5b2bec1e11c06e0380731527905637ebd1cdc"
+    },
+    {
+      "path": "assets/fonts/Qdbettercomicsansboldalternates-6YYPY.ttf",
+      "sha1": "93fac6523693f10fe780a5717647b8f72ea0ef2d"
+    }
+  ]
+}
